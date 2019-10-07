@@ -3,8 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "braintree-web": "^3.53.0",
+    "braintree-web-drop-in-react": "^1.0.10",
+    "moment": "^2.24.0",
+    "query-string": "^6.8.3",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.2"
   },
   "scripts": {
